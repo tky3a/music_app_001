@@ -57,3 +57,7 @@ gem 'bootstrap-sass', '3.3.1'
 
 gem "rb-fsevent", "0.9.8"
 
+
+#google library #Googleライブラリ
+gem 'googleauth'
+gem 'google-api-client', '0.9'
